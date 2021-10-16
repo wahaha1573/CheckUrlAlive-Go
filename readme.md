@@ -22,9 +22,9 @@ CheckUrlAlive-Go.exe是为了解决在信息收集中如通过子域名收集或
 
 CheckUrlAlive-Go.exe 
 
-![0](E:\goProject\src\github.com\Mdxjj\CheckUrlAlive-Go\images\0.png) 
+![](./images/0.png) 
 
 CheckUrlAlive-Go.exe -f url.txt
 
-![1](E:\goProject\src\github.com\Mdxjj\CheckUrlAlive-Go\images\1.png)
+![](./images/1.png)
 
